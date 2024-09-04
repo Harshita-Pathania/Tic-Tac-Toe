@@ -1,0 +1,24 @@
+.player-names {
+    text-align: center;
+    margin: 20px;
+}
+
+.player-names h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.player-names input {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 5px; /* Added rounding */
+}
+
+.player-names button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 10px; /* Added rounding */
+}
